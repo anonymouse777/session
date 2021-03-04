@@ -1,0 +1,36 @@
+.form_width{
+	width: 450px;
+	padding: 10px;
+	border: 1px solid gray;
+	margin-top: 10%;
+	margin-left: 27%;
+}
+
+.article_form_width{
+	width: 700px;
+	padding: 10px;
+	border: 1px solid gray;
+	margin-top: 5%;
+	margin-left: 7%;
+}
+
+.article_width{
+	width: 900px;
+	border: 1px solid gray;
+	margin-left: 7%;
+	margin-bottom: 10px;
+}
+
+.logout_width{
+	width: 900px;
+	margin-left: 7%;
+	margin-bottom: 10px;
+}
+
+.guest_margin{
+	margin-top: 5%;
+}
+.space_preserve{
+	white-space: pre-wrap;
+}
+
